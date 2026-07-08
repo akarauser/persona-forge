@@ -1,0 +1,9 @@
+{
+    "data_path": "folder",
+    "size": [64, 64],
+    "batch_size": 32,
+    "epochs": 10000,
+    "latent_dimansinality": 100,
+    "sample_period": 200,
+    "validation_frequency": 500
+}
